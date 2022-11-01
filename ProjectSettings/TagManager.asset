@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - WallRun
+  - kickable
+  - PlayerCam
+  - HookPoint
+  - Floor
+  - Weather
+  - destroyable
+  - RunnerHUD
+  - GroundCheck
+  - ArcherTarget
+  - KingGrid
+  - NetworkManager
+  - PauseMenu
+  - PlayerTrigger
+  - RainSystem
+  - FogSystem
+  - SnowSystem
+  - WindSystem
+  - ValleyRespawnPoint
+  - PlainsRespawnPoint
+  - FoothillsRespawnPoint
+  - MountainRespawnPoint
+  - PlayerModel
+  - MountainGrid
+  - Shadows
+  - Hail
+  - UICam
+  - hasEvent
+  - MountainUpperRespawnPoint
+  - Arrow
+  - PlayerHand
+  - GameManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Floor
+  - Weather
+  - Grid
+  - Grappleable
+  - King UI
+  - King
+  - WeatherWheelUI
+  - Door
+  - DoorFrame
+  - PlayerKicking
+  - InvisibleWall
+  - KingBlock
+  - hasEvent
+  - KingPlaceable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: UI_Backgrounds
+    uniqueID: 378093239
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
